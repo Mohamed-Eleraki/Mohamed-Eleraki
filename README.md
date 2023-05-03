@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on PowerShell Scripts [PowerShell_Articles](https://github.com/Mohamed-Eleraki/PowerShell_Articles)
-- 🌱 I’m currently learning PowerShell, Python automation, DevOps Tools, CI/CD, Azure DevOps, Jenkins, Terraform, Docker swarm, k8s, etc... 
+- 🔭 I’m currently working on [PowerShell_Articles](https://github.com/Mohamed-Eleraki/PowerShell_Articles) 
+- 🌱 I’m currently learning PowerShell, Python automation, DevOps tools....
 - 👯 I’m looking to collaborate on DevOps | Automation Projects
 - 📫 How to reach me: https://www.linkedin.com/in/mohamed-el-eraki-8bb5111aa/, Mohamed-ibrahim2021@outlook.com
-nerd_face Always learning new things
+
 
 
 <!--
